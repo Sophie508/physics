@@ -1,0 +1,32 @@
+{
+  "additional_steps": 46734,
+  "adiabaticity": 0.03,
+  "backend": "cupy",
+  "box_size": 114.41957869229641,
+  "cuda_runtime_version": 12030,
+  "cupy_version": "12.3.0",
+  "device_name": "NVIDIA H20",
+  "diagnostic_stride": 10,
+  "diffusion": 0.006031532510528815,
+  "fft_normalization": "forward",
+  "gamma_max": 0.1069886727201343,
+  "grid_points": 512,
+  "ky0": 0.5491355045168173,
+  "mhw_solver_gpu_sha256": "8e7f6e3aa9b7fa95f9012b13e7df7c8ebc952ab0be636123e2d8aa94c41bdaeb",
+  "mhw_solver_sha256": "2a3baad8990fe9852a48864131b90e2b792f271ffadcdd9227f8e990f09d0d40",
+  "seed": 20260813,
+  "source_artifact_sha256": {
+    "diagnostics.jsonl": "49e5c160fa83d84d983765cc609d3e7307dfd1ed4aad46e43f16c64f16a67739",
+    "final_state.npz": "abd6b59ee85f10bb0237b3801df173cdbffef807c8836710e5a72ebf4e417ab5",
+    "manifest.json": "d02a8bb1c45862429445a34dafd226992c672010db06187e450cd27b3e7a86dc",
+    "pre_run_manifest.json": "2efbb4addaf89260da293ba906fde049080ee451385fcf2f81ba8e2e8b7bf108"
+  },
+  "source_run_directory": "/data/hangxiao/frontierphysics-20260812/mhw-reference/c003-attempt03-c0.03-g512",
+  "source_state_digest": "e9fd16dc8ffd89f1cbcd3b1df6d3e93a37624151a2d0f040f01e6864328536a0",
+  "source_steps": 46734,
+  "target_duration": 934.6783865763473,
+  "target_duration_in_growth_times": 100.0,
+  "target_steps": 93468,
+  "time_step": 0.01,
+  "viscosity": 0.006031532510528815
+}

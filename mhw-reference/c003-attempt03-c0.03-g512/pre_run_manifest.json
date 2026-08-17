@@ -1,0 +1,23 @@
+{
+  "adiabaticity": 0.03,
+  "backend": "cupy",
+  "box_size": 114.41957869229641,
+  "cuda_runtime_version": 12030,
+  "cupy_version": "12.3.0",
+  "device_name": "NVIDIA H20",
+  "diagnostic_stride": 10,
+  "diffusion": 0.006031532510528815,
+  "duration": 467.33919328817365,
+  "duration_in_growth_times": 50.0,
+  "fft_normalization": "forward",
+  "gamma_max": 0.1069886727201343,
+  "grid_points": 512,
+  "initialization": "real-field phases with isotropic Gaussian spectral envelope, sigma_k=0.5, max coefficient amplitude=1e-4",
+  "ky0": 0.5491355045168173,
+  "mhw_solver_gpu_sha256": "c32fad78d67a25f0afe98d01d5943234c678aa20c2e350dfbec1179b33497679",
+  "mhw_solver_sha256": "2a3baad8990fe9852a48864131b90e2b792f271ffadcdd9227f8e990f09d0d40",
+  "seed": 20260813,
+  "steps": 46734,
+  "time_step": 0.01,
+  "viscosity": 0.006031532510528815
+}
